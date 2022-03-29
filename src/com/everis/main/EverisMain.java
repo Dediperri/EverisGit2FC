@@ -21,6 +21,7 @@ public class EverisMain {
 		
 		System.out.println("Hola, soy Diego López Strickland!");
 
+		System.out.println("Hola, soy Andrea Hujo Boa");
 	}
 
 }
